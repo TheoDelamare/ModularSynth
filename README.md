@@ -17,6 +17,7 @@ The device's shape follows that of a halo. Composed of two parallel rails, the h
   ## Ressources
 + [Schematics](schematics/)
 + [LaserCutting](laser_files/)
-*from the internet*
+
+    ### *from the internet*
 + [Moritz Klein Tutorial to build a kick drum module](https://www.youtube.com/watch?v=yz37Yz315eU)
 + [Simulation website]()
