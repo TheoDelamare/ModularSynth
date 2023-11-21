@@ -1,6 +1,6 @@
 # ModularSynth
 > Files, ideas and processes used to create a fully open source modular synth (based on personal experimentations)
-[A photography of some modular synth pieces, electronic junk, drawings on scattered papers and sheets of plexiglass and medium cuted and engraved with laser machine](photos/module_01_assembly_part0.jpeg)
+[A photography of some modular synth pieces, electronic junk, drawings on scattered papers and sheets of plexiglass and medium cuted and engraved with laser machine](illustration.jpg)
 
 ---
   ## Summary
@@ -10,13 +10,10 @@ I started this project in October 2023. Using amalgamations of diagrams found on
 The device's shape follows that of a halo. Composed of two parallel rails, the halo serves as a rack to insert and slide modules side by side.
 
 ---
-  ## Demo
-![A video of the synthesizer being built, an old TV is connected to a tangle of cables and provides white noise coming from the radio.](video/radio.mp4)
-
----
   ## Ressources
 + [Schematics](schematics/)
 + [LaserCutting](laser_files/)
-*from the internet*
+
+    ### *from the internet*
 + [Moritz Klein Tutorial to build a kick drum module](https://www.youtube.com/watch?v=yz37Yz315eU)
 + [Simulation website]()
