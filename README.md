@@ -15,7 +15,7 @@ The device's shape follows that of a halo. Composed of two parallel rails, the h
 <br>
 <img src="photos/module_00_03_04_laser_cutting.jpeg">
 <br>
-<img src="schematics/clock_module_concept.png.jpeg">
+<img src="schematics/clock_module_concept.jpeg">
 <br>
 
 ---
