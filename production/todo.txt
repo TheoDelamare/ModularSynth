@@ -1,0 +1,16 @@
+- : vectorisé
++ : découpé
+x : monté
+
+Modules :
++	00 pulse generator
+x	01 oscillator
+	02 Snow white noise
++	03 reverb
++	04 kick drum
+	05 double oscillator
+
+Halo :
+	finir mecanisme des halo
+	separation 
+	prototype
