@@ -1,7 +1,8 @@
 # ModularSynth
 > Files, ideas and processes used to create a fully open source modular synth (based on personal experimentations)
-<img src="illustration.jpg">
-
+<img src="illustration_1.jpg">
+<br>
+<img src="illustration_2.jpg">
 ---
   ## Summary
 I started this project in October 2023. Using amalgamations of diagrams found on the internet and assistance from external individuals, I'm gradually constructing this modular synthesizer. The project is currently progressing on two main aspects at the same time : the electronic/musical part, involving the exploration of new modules and interesting schematics, and the mechanical part, including the design and fabrication of pieces in various materials.
