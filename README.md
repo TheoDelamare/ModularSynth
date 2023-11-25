@@ -9,6 +9,11 @@ I started this project in October 2023. Using amalgamations of diagrams found on
   ### Halo
 The device's shape follows that of a halo. Composed of two parallel rails, the halo serves as a rack to insert and slide modules side by side.
 
+  ### Compatibility
+For the moment the project is not really Eurorack compatible as I'm still experimenting with basic electronics but I'll try to adapt it in the future.
+
+
+
 ---
 
 <img src="photos/module_01_assembly_part1.jpeg">
@@ -25,4 +30,6 @@ The device's shape follows that of a halo. Composed of two parallel rails, the h
 
     ### *from the internet*
 + [Moritz Klein Tutorial to build a kick drum module](https://www.youtube.com/watch?v=yz37Yz315eU)
-+ [Simulation website]()
++ [EricaSynths](https://www.ericasynths.lv/)
++ [Music from outer space](http://musicfromouterspace.com/analogsynth_new/NOISETOASTER/NOISETOASTER.php)
++ [Simulation website](https://www.falstad.com/circuit/)
