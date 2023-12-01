@@ -29,7 +29,7 @@ For the moment the project is not really Eurorack compatible as I'm still experi
 ---
   ## Ressources
 + [Schematics](schematics/)
-+ [LaserCutting](laser_files/)
++ [Production](production/)
 
     ### *from the internet*
 + [Moritz Klein Tutorial to build a kick drum module](https://www.youtube.com/watch?v=yz37Yz315eU)
