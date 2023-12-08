@@ -11,7 +11,7 @@ I started this project in October 2023. Using amalgamations of diagrams found on
 
   ### *"Halo" (name might change)*
 The device's shape follows that of a halo. Composed of two parallel rails, the halo serves as a rack to insert and slide modules side by side.
-  - Modules are composed of several parts : Frontplate made out of plexiglas, brass columns for assembly, the electronic card with the schematic soldered by hand on it, cables and finally the power supplies held at the back by a custom 3d printed piece.
+  - Modules are composed of several parts : [Frontplate made out of plexiglas](production/frontplate_design/), brass columns for assembly, the electronic card with the [schematics](schematics/) soldered by hand on it, cables and finally the power supplies held at the back by a [custom 3d printed piece](production/3d_printing/clips_alim_v04.stl).
 
   ### *Electronic*
 A note on compatibility : for instance the project is not really Eurorack compatible as I'm still experimenting with basic electronics but I'll try to adapt it in the future.
