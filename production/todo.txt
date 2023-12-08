@@ -1,19 +1,19 @@
+. : wip
 - : vectorisé
 + : découpé
 x : monté
 
 Modules :
--	00 pulse generator
+.	00 pulse generator
 x	01 oscillator
-	01b double oscillator
+.	01b double oscillator
 	01c wave tri sqr oscillator
 	02 Snow white noise
 +	03 reverb
-	03b reverb volumetric
+-	03b reverb volumetric
 +	04 kick drum
 	05 microphone
 	06 amp modulator
-	
 
 Halo :
 -	mecanisme des halo
