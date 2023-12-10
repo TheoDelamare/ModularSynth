@@ -3,8 +3,8 @@
 + : découpé
 x : monté
 
-Modules :
-.	00 pulse generator
+Modules Frontplates:
+-	00 pulse generator
 x	01 oscillator
 .	01b double oscillator
 	01c wave tri sqr oscillator
@@ -12,8 +12,14 @@ x	01 oscillator
 +	03 reverb
 -	03b reverb volumetric
 +	04 kick drum
-	05 microphone
+-	05 microphone
 	06 amp modulator
 
 Halo :
 -	mecanisme des halo
+
+Améliorations modules
+	01b double oscillator : volume controle
+	01c wave tri sqr oscillator : volume equlisation + volume controle + commutation
+	02 Snow white noise : gate in + oscilateur intégré pour polyrythme ?
+	05 microphone : microphone exterieur ?
