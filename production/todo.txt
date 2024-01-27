@@ -11,13 +11,14 @@ x	01 oscillator
 	01c wave tri sqr oscillator
 	02 Snow white noise
 +	03 reverb
-|	03b reverb volumetric
-+	04 kick drum
+x	03b reverb volumetric
+x	04 kick drum
 |	05 microphone
 -	06 amp modulator
+-	07 ZombiBox
 
 Halo :
-|	mecanisme des halo
+x	mecanisme des halo
 
 Améliorations modules
 	01b double oscillator : volume controle
