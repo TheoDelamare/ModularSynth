@@ -5,17 +5,21 @@
 x : monté
 
 Modules Frontplates:
-|	00 pulse generator
++	00 pulse generator
 x	01 oscillator
 .	01b double oscillator
 	01c wave tri sqr oscillator
 	02 Snow white noise
-+	03 reverb
+x	03 reverb
 x	03b reverb volumetric
 x	04 kick drum
-|	05 microphone
--	06 amp modulator
--	07 ZombiBox
+x	05 microphone
+x	06 amp modulator
+x	07 ZombiBox
+	08 Radio
+	09 Thérémine
+	xx WahouBox
+	10 Sequencer
 
 Halo :
 x	mecanisme des halo
@@ -25,3 +29,6 @@ Améliorations modules
 	01c wave tri sqr oscillator : volume equlisation + volume controle + commutation
 	02 Snow white noise : gate in + oscilateur intégré pour polyrythme ?
 	05 microphone : microphone exterieur ?
+	06 amp modulator gate clock compatibility
+	07 zombie box gate clock compatibility
+	09 Thérémine volume boost	
