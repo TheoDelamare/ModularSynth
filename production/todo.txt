@@ -17,7 +17,7 @@ x	05 microphone
 x	06 amp modulator
 x	07 ZombiBox
 	08 Radio
-	09 Thérémine
+-	09 Thérémine
 	xx WahouBox
 	10 Sequencer
 
