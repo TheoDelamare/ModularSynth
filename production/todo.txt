@@ -20,6 +20,7 @@ x	07 ZombiBox
 -	09 Thérémine
 	xx WahouBox
 	10 Sequencer
+-	11 Sampler
 
 Halo :
 x	mecanisme des halo
