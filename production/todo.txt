@@ -22,7 +22,7 @@ x	07 ZombiBox
 |	10 Sequencer
 |	11 Sampler
 	12 EQ Spike
-	13 
+-	13 DrumBox
 
 Halo :
 x	mecanisme des halo
