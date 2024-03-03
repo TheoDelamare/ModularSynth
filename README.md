@@ -44,9 +44,9 @@ The Halo is currently composed of several modules such as :
 <br>
 <img src="photos/module_00_03_04_laser_cutting.jpeg">
 <br>
-<img src="schematics/crab_army.jpeg">
+<img src="photos/crab_army.jpeg">
 <br>
-<img src="schematics/Halo_demo_02.jpeg">
+<img src="photos/Halo_demo_02.jpeg">
 <br>
 
 ---
