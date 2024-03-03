@@ -1,9 +1,12 @@
 # ModularSynth
 > Files, ideas and processes used to create a fully open source modular synth (based on personal experimentations)
-<img src="photos/module_01_assembly_part2.jpeg">
+<img src="photos/Halo_demo_00.jpeg">
+<br>
+<img src="photos/Halo_assembly_01.jpeg">
 <br>
 <img src="photos/modules_assembly_workbench.jpeg">
 <br>
+<img src="photos/module_01_04.jpeg">
 
 ---
   ## Summary
@@ -11,13 +14,13 @@ I started this project in October 2023. Using amalgamations of diagrams found on
 
   ### *Halo*
 The device's shape follows that of a halo. Composed of two parallel rails, the halo serves as a rack to insert and slide modules side by side.
-  - Modules are composed of several parts : [Frontplate made out of plexiglas](production/frontplate_design/), brass columns for assembly, the electronic card with the [schematics](schematics/) soldered by hand on it, cables and finally the power supplies held at the back by a [custom 3d printed piece](production/3d_printing/clips_alim_v04.stl).
+  - Modules are composed of several parts : [Frontplate made out of plexiglas](production/frontplate_design/), brass columns for assembly, the electronic card with the [schematics](schematics/) soldered by hand on it, cables and finally the power supplies held at the back by a [custom 3d printed piece](production/3d_printing/).
 
   ### *Electronic*
 A note on compatibility : for instance the project is not really Eurorack compatible as I'm still experimenting with basic electronics but I'll try to adapt it in the future.
 
 The Halo is currently composed of several modules such as :
--  pulse generator
+- pulse generator
 -	oscillator
 - Snow white noise
 - reverb
@@ -28,15 +31,22 @@ The Halo is currently composed of several modules such as :
 - ZombiBox
 - Radio
 - Thérémine
+- Sequencer
+- Sampler
+- DrumBox
 - ...
 
 ---
 
 <img src="photos/module_01_assembly_part1.jpeg">
 <br>
+<img src="photos/Jam_01.jpeg">
+<br>
 <img src="photos/module_00_03_04_laser_cutting.jpeg">
 <br>
-<img src="schematics/clock_module_concept.jpeg">
+<img src="schematics/crab_army.jpeg">
+<br>
+<img src="schematics/Halo_demo_02.jpeg">
 <br>
 
 ---
