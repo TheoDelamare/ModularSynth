@@ -5,7 +5,7 @@
 x : monté
 
 Modules Frontplates:
-+	00 pulse generator
+x	00 pulse generator
 x	01 oscillator
 	01b double oscillator
 	01c wave tri sqr oscillator
@@ -17,12 +17,17 @@ x	05 microphone
 x	06 amp modulator
 x	07 ZombiBox
 	08 Radio
-|	09 Thérémine
++	09 Thérémine
 	xx WahouBox
-|	10 Sequencer
-|	11 Sampler
+x	10 Sequencer
++	11 Sampler
 	12 EQ Spike
+
 -	13 DrumBox
+	14 Mixette / Console son
+	15 Orgue
+	16 NoiseBox
+	17 
 
 Halo :
 x	mecanisme des halo
