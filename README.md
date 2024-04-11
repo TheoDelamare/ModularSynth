@@ -6,6 +6,8 @@
 <br>
 <img src="photos/modules_assembly_workbench.jpeg">
 <br>
+https://github.com/TheoDelamare/ModularSynth/assets/92792157/5a63ab01-0ff9-4eb3-9692-c3d30dfbd2d2
+<br>
 <img src="photos/module_01_04.jpeg">
 
 ---
