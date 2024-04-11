@@ -6,11 +6,7 @@
 <br>
 <img src="photos/modules_assembly_workbench.jpeg">
 <br>
-
-
-https://github.com/TheoDelamare/ModularSynth/assets/92792157/808f1e32-4dd2-4e89-8668-eb0df5488499
-
-
+<img src="photos/jam_NDSL_2.jpg">
 <br>
 <img src="photos/module_01_04.jpeg">
 
