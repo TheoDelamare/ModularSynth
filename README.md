@@ -1,6 +1,5 @@
 # ModularSynth
-Official PDF Documentation !
-[Documentation](DOCUMENTATION/Modular_Doc_v001.pdf)
+Official PDF [Documentation](DOCUMENTATION/Modular_Doc_v001.pdf) !
 ---
 > Files, ideas and processes used to create a fully open source modular synth (based on personal experimentations)
 <img src="photos/Halo_demo_00.jpeg">
