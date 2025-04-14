@@ -1,8 +1,9 @@
 # ModularSynth
+Official PDF Documentation !
+[Documentation](DOCUMENTATION/Modular_Doc_v001.pdf)
+---
 > Files, ideas and processes used to create a fully open source modular synth (based on personal experimentations)
 <img src="photos/Halo_demo_00.jpeg">
-<br>
-<img src="photos/Halo_assembly_01.jpeg">
 <br>
 <img src="photos/modules_assembly_workbench.jpeg">
 <br>
@@ -40,8 +41,6 @@ The Halo is currently composed of several modules such as :
 
 ---
 
-<img src="photos/module_01_assembly_part1.jpeg">
-<br>
 <img src="photos/Jam_01.jpeg">
 <br>
 <img src="photos/module_00_03_04_laser_cutting.jpeg">
