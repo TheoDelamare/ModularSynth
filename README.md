@@ -1,47 +1,40 @@
 # ModularSynth
-Official PDF [Documentation](DOCUMENTATION/Modular_Doc_v001.pdf) !
+<!-- Official PDF [Documentation](DOCUMENTATION/Modular_Doc_v001.pdf) ! -->
 ---
-> Files, ideas and processes used to create a fully open source modular synth (based on personal experimentations)
+> Files, ideas and processes used to create an open source modular synth (based on personal experimentations)
 <img src="photos/Halo_demo_00.jpeg">
 <br>
-<img src="photos/modules_assembly_workbench.jpeg">
+<img src="photos/module_04_assembly_part1.jpeg">
 <br>
-<img src="photos/jam_NDSL_2.jpg">
+<img src="photos/jam_NDSL_1.jpg">
 <br>
 <img src="photos/module_01_04.jpeg">
 
 ---
   ## Summary
-I started this project in October 2023. Using amalgamations of diagrams found on the internet and assistance from external individuals, I'm gradually constructing this modular synthesizer. The project is currently progressing on two main aspects at the same time : the electronic/musical part, involving the exploration of new modules and interesting schematics, and the mechanical part, including the design and fabrication of pieces in various materials.
+I started this project in October 2023. Using amalgamations of internet obscur diagrams and dad's help, I'm gradually constructing this modular synthesizer. The project is currently focusing on two main aspects : the electronic/musical part, involving exploration of new modules and interesting schematics, and the mechanical part, including the design and fabrication of the ring in various materials.
 
-  ### *Halo*
+  ### *Halo / Ring*
 The device's shape follows that of a halo. Composed of two parallel rails, the halo serves as a rack to insert and slide modules side by side.
-  - Modules are composed of several parts : [Frontplate made out of plexiglas](production/frontplate_design/), brass columns for assembly, the electronic card with the [schematics](schematics/) soldered by hand on it, cables and finally the power supplies held at the back by a [custom 3d printed piece](production/3d_printing/).
+  - Modules are composed of several parts : [Frontplate made out of plexiglas](production/frontplate_design/), brass columns for assembly, the electronic card with the schematics soldered by hand on it, cables and finally the power supplies.
 
   ### *Electronic*
-A note on compatibility : for instance the project is not really Eurorack compatible as I'm still experimenting with basic electronics but I'll try to adapt it in the future.
+A note on compatibility : This project is not really Eurorack compatible as I'm still experimenting with basic electronics but I'll try to adapt it in the future if needed.
 
 The Halo is currently composed of several modules such as :
-- pulse generator
--	oscillator
-- Snow white noise
-- reverb
-- reverb volumetric
-- kick drum
-- microphone
-- amp modulator
+- Double CV LFO
+-	Orgue Oscillators
+- Reverb volumetric
+- Kick drum
+- Hacher
 - ZombiBox
-- Radio
 - Thérémine
 - Sequencer
-- Sampler
 - DrumBox
 - ...
 
 ---
 
-<img src="photos/Jam_01.jpeg">
-<br>
 <img src="photos/module_00_03_04_laser_cutting.jpeg">
 <br>
 <img src="photos/crab_army.jpeg">
@@ -51,7 +44,6 @@ The Halo is currently composed of several modules such as :
 
 ---
   ## Ressources
-+ [Schematics](schematics/)
 + [Production](production/)
 
     ### *from the internet*
