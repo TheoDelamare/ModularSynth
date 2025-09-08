@@ -16,7 +16,12 @@ I started this project in October 2023. Using amalgamations of internet obscur d
 
   ### *Halo / Ring*
 The device's shape follows that of a halo. Composed of two parallel rails, the halo serves as a rack to insert and slide modules side by side.
-  - Modules are composed of several parts : [Frontplate made out of plexiglas](production/frontplate_design/), brass columns for assembly, the electronic card with the schematics soldered by hand on it, cables and finally the power supplies.
+
+  ### *Modules*
+Modules are composed of several parts : [Frontplate made out of plexiglas](production/frontplate_design/), brass columns for assembly, the electronic card with the schematics soldered by hand on it, cables and finally the power supplies.
+As you may have noticed, a lot of the frontplate design is referencing the various concepts of the [Rain world](https://store.steampowered.com/app/312520/Rain_World/) univers.
+Some other glyph and mysterious symboles refer to diverses fictions and universes from multiple pieces of art including [personal ones](https://theodelamare.xyz/pages/3dUCHRO.html).
+This enigmatic and cryptic approach of the design around the object follow the same concept behind the circular shape of the synthetiser, it's all about opacity and fabulations projected onto the machine. How such weird metalic assembly produces outer space sound and floating feelings, how do some pot manipulation enhance thoses states of mind. I wanted this machine to carry all these metaphorical symbols.
 
   ### *Electronic*
 A note on compatibility : This project is not really Eurorack compatible as I'm still experimenting with basic electronics but I'll try to adapt it in the future if needed.
