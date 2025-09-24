@@ -60,3 +60,9 @@ The Halo is currently composed of several modules such as :
 + [EricaSynths](https://www.ericasynths.lv/)
 + [Music from outer space](http://musicfromouterspace.com/analogsynth_new/NOISETOASTER/NOISETOASTER.php)
 + [Simulation website](https://www.falstad.com/circuit/)
+
+---
+
+<br>
+<img src="photos/RingModularSynth_6.png">
+
