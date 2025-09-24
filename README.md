@@ -7,8 +7,6 @@
 <img src="photos/module_15.jpeg">
 <br>
 <img src="photos/jam_NDSL_1.jpg">
-<br>
-<img src="photos/Halo_demo_02.jpeg">
 
 ---
   ## Summary
@@ -18,7 +16,7 @@ Immersed in an atmosphere hovering between science fiction and ancient relic, th
 When designing the interface for this machine, my goal was to make sound creation feel more instinctive and spontaneous, rather than bound by technical or functionalist constraints. That’s why most of the knobs and switches follow cryptic codes, closer to intuition and sensation than to conventional labeling. This choice also gives the instrument a mysterious character, placing it within an extravagant narrative world, deliberately at odds with the technical sobriety usually associated with electronic music.
 
 As a musician, artist, and tinkerer, I build this synthesizer and its modules together with Vincent Delamare, who brings the technical expertise essential to the project.
-I started this project in October 2023. Using amalgamations of internet obscur diagrams. The project is currently focusing on two main aspects : the electronic/musical part, involving exploration of new modules and interesting schematics, and the artistic / mechanical part, including the design and fabrication of the ring in various materials.
+I started this project in October 2023. Using amalgamations of internet obscur diagrams. The project is currently focusing on two main aspects : the electronic / musical part, involving exploration of new modules and interesting schematics, and the artistic / mechanical part, including the design and fabrication of the ring in various materials.
 
   ### *Halo / Ring*
 The device's shape follows that of a halo. Composed of two parallel rails, the ring serves as a rack to insert and slide modules side by side.
