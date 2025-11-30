@@ -62,11 +62,12 @@ The Halo is currently composed of several modules such as :
 + [Simulation website](https://www.falstad.com/circuit/)
 
 ---
-<br>
-  ### Contact
-  Mail : theo.delamare@protonmail.com
-  Insta : https://www.instagram.com/theo_delamare_/
-  Bandcamp : https://theodelamare.bandcamp.com/
+
+### Contact
++ [Mail](theo.delamare@protonmail.com)
++ [Insta](https://www.instagram.com/theo_delamare_/)
++ [Bandcamp](https://theodelamare.bandcamp.com/)
+
 ---
 <br>
 <img src="photos/RingModularSynth_6.png">
