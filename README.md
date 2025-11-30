@@ -64,7 +64,7 @@ The Halo is currently composed of several modules such as :
 ---
 
 ### Contact
-+ [Mail](theo.delamare@protonmail.com)
++ Mail : theo.delamare@protonmail.com
 + [Insta](https://www.instagram.com/theo_delamare_/)
 + [Bandcamp](https://theodelamare.bandcamp.com/)
 
